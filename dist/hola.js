@@ -1,4 +1,4 @@
-//Lucía Cristel Ramírez Romero
-let mensaje = "Holis Bolis!!!";
+//Oscar Daniel Morales Navarro
+let mensaje = "Holo";
 console.log(mensaje);
 //# sourceMappingURL=hola.js.map

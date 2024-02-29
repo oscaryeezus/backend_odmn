@@ -1,4 +1,4 @@
-//Lucía Cristel Ramírez Romero
-let mensaje: string = "Holis Bolis!!!"
+//Oscar Daniel Morales Navarro
+let mensaje: string = "Holo"
 
 console.log(mensaje)
